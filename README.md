@@ -418,6 +418,119 @@ Hi 👋, I'm Ganesh Kalapad
 
 </h3>
 
+# 💼 Experience
 
+## 💻 Software Engineer Intern
+### YugaYatra Retail (OPC) Private Limited
+
+📅 **February 2026 – May 2026**
+
+Worked on the **FreshIn10 Quick Commerce Platform**, contributing to the development of scalable full-stack applications.
+
+### Responsibilities
+
+- 🚀 Developed scalable REST APIs using Node.js and Express.js
+- ⚛️ Built responsive user interfaces using React.js & Next.js
+- 🔐 Implemented JWT Authentication and Role-Based Access Control
+- 📦 Integrated PostgreSQL with Prisma ORM
+- ⚡ Improved application performance using Redis Caching
+- 🐳 Containerized applications using Docker
+- ☁️ Deployed applications on AWS & Vercel
+- 🤝 Collaborated with cross-functional teams using Git & GitHub
+
+---
+
+# 📜 Publications
+
+## 📰 Real-Time News & Social Media Sentiment Analyzer + Summarizer
+
+📖 Published in **IJIRT (International Journal of Innovative Research in Technology)**
+
+📅 January 2026
+
+### Research Highlights
+
+- 🤖 AI-Based News Summarization
+- 😊 Social Media Sentiment Analysis
+- 📊 NLP-Based Text Processing
+- 📈 Machine Learning Techniques
+
+---
+
+# 🏅 Certifications
+
+- ✅ Deloitte Australia – Data Analytics Job Simulation (Forage)
+- ✅ Infosys Springboard – Full Stack Development
+- ✅ Internet of Things (IoT)
+- ✅ Microsoft Learn – AI & Azure Fundamentals
+- ✅ AICTE Virtual Internship Programs
+
+---
+
+# 🌱 Currently Learning
+
+- ☁️ AWS Cloud
+- 🏗️ System Design
+- 🐳 Docker & Kubernetes
+- ⚡ Microservices Architecture
+- 🤖 Artificial Intelligence
+- 📈 Scalable Backend Systems
+
+---
+
+# 🤝 Open Source
+
+I enjoy contributing to open-source projects and continuously improving my development skills by building real-world applications.
+
+I'm always open to collaborating on exciting Full Stack, Backend, AI, and Cloud projects.
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Contribute to Open Source
+- ☁️ Master AWS Cloud
+- 🏗️ Learn Advanced System Design
+- 🤖 Build AI-Powered Applications
+- 🌍 Contribute to Large Scale Projects
+- 💼 Join a Product-Based Company
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:ganeshkalapadgk@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ganeshkalapad/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gk155586">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://gk155586.github.io/Ganeshas_Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</p>
 
 
