@@ -201,5 +201,123 @@ Hi 👋, I'm Ganesh Kalapad
 
 ---
 
+# 🚀 Featured Projects
+
+## 🛒 FreshIn10 – Quick Commerce Platform
+
+> A scalable **Quick Commerce** application designed to deliver groceries in **10 minutes**, featuring dedicated Customer, Admin, and Delivery applications with real-time order tracking.
+
+### ✨ Key Features
+
+- 🚚 10-Minute Grocery Delivery
+- 📍 Live Order Tracking
+- 🔐 JWT Authentication
+- 💳 Razorpay Payment Integration
+- 👨‍💼 Customer, Admin & Delivery Modules
+- ⚡ Real-time Updates using WebSockets
+- 📦 Inventory & Order Management
+- 📱 Responsive UI
+
+### 🛠️ Tech Stack
+
+`Next.js` • `React.js` • `Node.js` • `Express.js` • `PostgreSQL` • `Prisma ORM` • `Redis` • `Docker` • `AWS`
+
+<p align="center">
+
+<a href="https://fresh-in10-vqrdg4ff8-gk155586s-projects.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🤖 AI E-Commerce Personalization Engine
+
+> An intelligent **AI-powered recommendation engine** that personalizes shopping experiences using customer behavior and rule-based product recommendations.
+
+### ✨ Key Features
+
+- 🤖 AI Product Recommendations
+- 🎯 Personalization Rules Engine
+- 📊 Customer Behaviour Analysis
+- 🛍️ Dynamic Product Suggestions
+- ⚡ High Performance Decision Engine
+- 📈 Improved User Experience
+
+### 🛠️ Tech Stack
+
+`React.js` • `JavaScript` • `Node.js` • `Rule Engine`
+
+<p align="center">
+
+<a href="https://ai-ecommerce-personalization-rules.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💬 FeedbackHub
+
+> A secure feedback management platform for collecting, organizing, and analyzing user feedback with an intuitive dashboard.
+
+### ✨ Key Features
+
+- 📊 Interactive Dashboard
+- 👥 User Management
+- 🔐 Secure Authentication
+- 📈 Feedback Analytics
+- 📱 Responsive Design
+
+### 🛠️ Tech Stack
+
+`React.js` • `Node.js` • `MongoDB` • `Express.js`
+
+<p align="center">
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Personal Portfolio
+
+> A modern and responsive portfolio website showcasing my projects, skills, certifications, and professional journey.
+
+### ✨ Key Features
+
+- 💼 Professional Portfolio
+- 📱 Fully Responsive
+- ✨ Modern UI/UX
+- ⚡ Optimized Performance
+- 🌙 Clean Design
+
+### 🛠️ Tech Stack
+
+`React.js` • `Next.js` • `Tailwind CSS`
+
+<p align="center">
+
+<a href="https://gk155586.github.io/Ganeshas_Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-6C63FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
 
 
