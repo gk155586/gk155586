@@ -72,42 +72,66 @@ Java • AWS • Open Source
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">🛒 FreshIn10</h3>
 
-- ⚡ Quick Commerce Platform
+<p align="center">
+<img src="https://img.shields.io/badge/Quick-Commerce-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live-Available-blue?style=flat-square"/>
+</p>
+
+A modern **Quick Commerce Platform** that enables customers to order groceries with **real-time tracking**, secure payments, and dedicated Customer, Admin, and Delivery applications.
+
+### ✨ Features
+
 - 🚚 10-Minute Grocery Delivery
-- 👨‍💼 Customer, Admin & Delivery Apps
-- 📍 Real-time Order Tracking
+- 📍 Live Order Tracking
 - 🔐 JWT Authentication
 - 💳 Razorpay Integration
+- 📦 Admin Dashboard
+- 🚴 Delivery Partner App
 
-**Tech Stack**
+### 🛠 Tech Stack
 
 Next.js • React • Node.js • Express • PostgreSQL • Prisma • Redis • Docker • AWS
 
-<a href="YOUR_GITHUB_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+<p align="center">
+<a href="https://fresh-in10-vqrdg4ff8-gk155586s-projects.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">📰 AI News & Sentiment Analyzer</h3>
+<h3 align="center">🛍️ AI E-Commerce Personalization Engine</h3>
 
-- 🤖 AI Powered News Analysis
-- 📈 Social Media Sentiment
-- 📄 IJIRT Research Publication
-- ⚡ NLP Based Summarization
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live-Available-blue?style=flat-square"/>
+</p>
 
-**Tech Stack**
+An AI-powered recommendation engine that delivers **personalized shopping experiences** using intelligent business rules and customer behavior.
 
-Python • NLP • Machine Learning
+### ✨ Features
 
-<a href="YOUR_GITHUB_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+- 🤖 AI Product Recommendations
+- 🎯 Personalization Rules
+- 📊 Customer Insights
+- ⚡ Fast Decision Engine
+- 🛒 Dynamic Shopping Experience
+
+### 🛠 Tech Stack
+
+React • JavaScript • AI Rules Engine • Node.js
+
+<p align="center">
+<a href="https://ai-ecommerce-personalization-rules.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
 </a>
+</p>
 
 </td>
 
@@ -115,24 +139,53 @@ Python • NLP • Machine Learning
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">💬 FeedbackHub</h3>
 
-- 📊 Feedback Dashboard
-- 👥 User Management
-- 🔐 Secure Authentication
-- 📈 Analytics
+A secure feedback management platform for collecting, managing, and analyzing user feedback through an intuitive dashboard.
 
-**Tech Stack**
+### ✨ Features
+
+- 📊 Analytics Dashboard
+- 👥 User Management
+- 🔐 Authentication
+- 📈 Reports
+
+### 🛠 Tech Stack
 
 React • Node.js • MongoDB
 
-<a href="YOUR_GITHUB_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Personal Portfolio</h3>
+
+A responsive portfolio website showcasing projects, skills, achievements, and professional experience.
+
+### ✨ Features
+
+- 📱 Responsive Design
+- ✨ Modern UI
+- ⚡ Fast Performance
+- 🌙 Clean User Experience
+
+### 🛠 Tech Stack
+
+React • Next.js • Tailwind CSS
+
+<p align="center">
+<a href="https://gk155586.github.io/Ganeshas_Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Visit_Portfolio-6C63FF?style=for-the-badge"/>
 </a>
+</p>
 
 </td>
+
+</tr>
+
+</table>
 
 <td width="50%">
 
