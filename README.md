@@ -22,19 +22,7 @@ Java • AWS • Open Source
 </p>
 
 
-<h1 align="center">
-  Hi 👋, I'm Ganesh Kalapad
-</h1>
 
-<h3 align="center">
-  Full Stack Developer from India 🇮🇳
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Node.js+Backend+Developer;Java+Developer;AWS+Cloud+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</p>
-
----
 
 ## 🚀 About Me
 
