@@ -1,7 +1,7 @@
 <p align="center">
-<img src="./banner.jpeg"width="100%:
-alt="Ganesh Kalapad Banner"/>
+  <img src="./banner.jpeg" alt="Ganesh Kalapad Banner" width="100%" />
 </p>
+
 
 Hi 👋 I'm Ganesh Kalapad
 Full Stack Developer
