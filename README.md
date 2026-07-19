@@ -40,7 +40,6 @@ Java • AWS • Open Source
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
-
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
