@@ -34,4 +34,34 @@ Java • AWS • Open Source
 - 📫 Reach me at **ganeshkalapadgk@gmail.com**
 - ⚡ Fun fact: I love turning ideas into real-world applications.
 
----
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,nginx" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
