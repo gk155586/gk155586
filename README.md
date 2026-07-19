@@ -26,46 +26,81 @@ Java • AWS • Open Source
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Graduate
-- 💻 Passionate Full Stack Developer
-- 🌱 Currently improving my skills in System Design & Cloud
-- 🚀 Building scalable web applications using modern technologies
-- 💬 Ask me about **React, Next.js, Node.js, Java, PostgreSQL**
-- 📫 Reach me at **ganeshkalapadgk@gmail.com**
-- ⚡ Fun fact: I love turning ideas into real-world applications.
+🎓 B.Tech in Computer Science & Engineering
 
-## 🛠️ Tech Stack
+💻 Passionate Full Stack Developer focused on building scalable web applications.
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
+🌱 Currently learning
+- System Design
+- Cloud Computing
+- DevOps
+
+🚀 Interested in
+- Full Stack Development
+- Backend Engineering
+- Open Source
+- AI-powered Applications
+
+💬 Ask me about
+- React
+- Next.js
+- Node.js
+- Java
+- PostgreSQL
+
+📫 Email
+ganeshkalapadgk@gmail.com
+
+
+
+## 💻 Tech Stack
+
+### Languages
+Java • Python • C • JavaScript • TypeScript
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+---
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite"/>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+---
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
+---
+
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma"/>
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,nginx" />
+---
+
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,nginx"/>
 </p>
 
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
+---
 
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+</p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -91,6 +126,8 @@ A modern **Quick Commerce Platform** that enables customers to order groceries w
 - 💳 Razorpay Integration
 - 📦 Admin Dashboard
 - 🚴 Delivery Partner App
+
+  
 
 ### 🛠 Tech Stack
 
