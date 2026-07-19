@@ -65,3 +65,148 @@ Java • AWS • Open Source
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 </p>
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">🛒 FreshIn10</h3>
+
+- ⚡ Quick Commerce Platform
+- 🚚 10-Minute Grocery Delivery
+- 👨‍💼 Customer, Admin & Delivery Apps
+- 📍 Real-time Order Tracking
+- 🔐 JWT Authentication
+- 💳 Razorpay Integration
+
+**Tech Stack**
+
+Next.js • React • Node.js • Express • PostgreSQL • Prisma • Redis • Docker • AWS
+
+<a href="YOUR_GITHUB_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">📰 AI News & Sentiment Analyzer</h3>
+
+- 🤖 AI Powered News Analysis
+- 📈 Social Media Sentiment
+- 📄 IJIRT Research Publication
+- ⚡ NLP Based Summarization
+
+**Tech Stack**
+
+Python • NLP • Machine Learning
+
+<a href="YOUR_GITHUB_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">💬 FeedbackHub</h3>
+
+- 📊 Feedback Dashboard
+- 👥 User Management
+- 🔐 Secure Authentication
+- 📈 Analytics
+
+**Tech Stack**
+
+React • Node.js • MongoDB
+
+<a href="YOUR_GITHUB_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🌐 Portfolio Website</h3>
+
+- 💼 Personal Portfolio
+- 📱 Fully Responsive
+- ✨ Modern UI
+- 🚀 Fast Performance
+
+**Tech Stack**
+
+React • Next.js • Tailwind CSS
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gk155586&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gk155586&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk155586&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gk155586&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gk155586&theme=algolia&row=2&column=4"/>
+
+</p>
+
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gk155586&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+
+</p>
+
+
+<h3 align="center">
+
+Thanks for visiting my profile ❤️
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</h3>
