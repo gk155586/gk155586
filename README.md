@@ -152,18 +152,6 @@ Responsive portfolio showcasing projects, skills, and professional journey.
 <img src="https://github-profile-trophy.vercel.app/?username=gk155586&theme=algolia&row=1&column=7&margin-w=12&margin-h=12"/>
 </p>
 
-<details>
-<summary><b>📈 Extended metrics (commits, PRs, code time, repositories)</b></summary>
-<br>
-<p align="center">
-<img src="https://metrics.lecoq.io/gk155586?template=classic&base=header,activity,community,repositories,languages&config.timezone=Asia%2FKolkata"/>
-</p>
-</details>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/gk155586/gk155586/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
 ---
 
 ## 🎯 2026 Goals
