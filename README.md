@@ -136,7 +136,7 @@ Responsive portfolio showcasing projects, skills, and professional journey.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github.com/gk155586/gk155586/blob/output/github-metrics.svg" alt="GitHub Metrics"/>
+<img src="https://raw.githubusercontent.com/gk155586/gk155586/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 <p align="center">
