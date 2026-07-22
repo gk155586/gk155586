@@ -21,7 +21,6 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_limit: 8
           plugin_lines: yes
-         
           config_timezone: Asia/Kolkata
           output_action: commit
           committer_message: "chore: update metrics"
