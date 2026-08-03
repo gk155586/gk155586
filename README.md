@@ -2,6 +2,7 @@
   <img src="./banner.jpeg" alt="Ganesh Kalapad Banner" width="100%" />
 </p>
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c3ce9,100:a855f7&height=220&section=header&text=Ganesh%20Kalapad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Open%20Source%20Builder&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
@@ -25,9 +26,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
 
 ```yaml
 name: Ganesh Sadashiv Kalapad
@@ -54,7 +55,7 @@ highlights:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; Impact at a Glance
+## 📊 Impact at a Glance
 
 <div align="center">
 
@@ -67,7 +68,7 @@ highlights:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; Tech Arsenal
+## 🛠️ Tech Arsenal
 
 ### Languages
 <p>
@@ -124,7 +125,7 @@ highlights:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">&nbsp; Professional Experience
+## 💼 Professional Experience
 
 ### 🏢 Software Engineer Intern — YugaYatra Retail (OPC) Pvt. Ltd.
 
@@ -153,7 +154,7 @@ highlights:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; Featured Projects
+## 🚀 Featured Projects
 
 ### 🛒 [FreshIn10 — Quick Commerce Platform](https://fresh-in10-vqrdg4ff8-gk155586s-projects.vercel.app/)
 
@@ -259,28 +260,12 @@ highlights:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30">&nbsp; GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=gk155586&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/gk155586">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gk155586&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6c3ce9&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/gk155586">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk155586&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/gk155586">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gk155586&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gk155586&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
 </a>
 
 <br/><br/>
@@ -294,10 +279,8 @@ highlights:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gk155586/gk155586/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gk155586/gk155586/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gk155586/gk155586/output/github-snake-dark.svg" width="98%"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gk155586/gk155586/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
-> 💡 *Set up the [snake animation workflow](https://github.com/Platane/snk) to make the above work!*
 
 </div>
 
@@ -375,7 +358,7 @@ Q4  ░░░░░░░░░░░░░░░░░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&nbsp; Let's Build Something Great
+## 🤝 Let's Build Something Great
 
 <div align="center">
 
